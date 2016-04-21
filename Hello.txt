@@ -1,2 +1,4 @@
 apple
 Cloning exercise 0
+
+banana
