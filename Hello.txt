@@ -1,1 +1,4 @@
-Cloning exercise 1
+apple
+Cloning exercise 0
+
+banana
